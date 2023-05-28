@@ -1,0 +1,13 @@
+# Target labels
+ bootloader
+# Source files and their labels
+E:/BLUE/project-name2/build/CMakeFiles/bootloader
+E:/BLUE/project-name2/build/CMakeFiles/bootloader.rule
+E:/BLUE/project-name2/build/CMakeFiles/bootloader-complete.rule
+E:/BLUE/project-name2/build/bootloader-prefix/src/bootloader-stamp/bootloader-install.rule
+E:/BLUE/project-name2/build/bootloader-prefix/src/bootloader-stamp/bootloader-mkdir.rule
+E:/BLUE/project-name2/build/bootloader-prefix/src/bootloader-stamp/bootloader-download.rule
+E:/BLUE/project-name2/build/bootloader-prefix/src/bootloader-stamp/bootloader-update.rule
+E:/BLUE/project-name2/build/bootloader-prefix/src/bootloader-stamp/bootloader-patch.rule
+E:/BLUE/project-name2/build/bootloader-prefix/src/bootloader-stamp/bootloader-configure.rule
+E:/BLUE/project-name2/build/bootloader-prefix/src/bootloader-stamp/bootloader-build.rule
